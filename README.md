@@ -16,7 +16,7 @@ Note: Python 3.8 is required to run our code.
 
 
 ## Data preparation
-To run the code, annotations and visual features for the COCO dataset are needed. Please download the annotations file [annotations.zip](https://ailb-web.ing.unimore.it/publicfiles/drive/meshed-memory-transformer/annotations.zip) and extract it.
+To run the code, annotations and visual features for the COCO dataset are needed. Please download the annotations file [annotations.zip](https://pan.baidu.com/s/17ik-2OZGFaQ5-AzCCWkL9w) (Extraction code: ska0) and extract it.
 
 To reproduce our result, please download the features files [COCO2014_RN50x4_GLOBAL.hdf5, COCO2014_VinVL.hdf5](https://pan.baidu.com/s/17ik-2OZGFaQ5-AzCCWkL9w) (Extraction code: ska0), in which features of each image are stored under the `<image_id>_features` key. `<image_id>` is the id of each COCO image, without leading zeros (e.g. the `<image_id>` for `COCO_val2014_000000037209.jpg` is `37209`). VinVL region feature dimension is (N, 2048), N is the number of region features; CLIP grid feature dimension is (M, 2560), M is the number of grid features.
 
