@@ -1,0 +1,13 @@
+coco/*
+cache/cider_cache.pkl
+common/evaluation/meteor/data
+common/evaluation/spice/cache
+common/evaluation/spice/lib
+tensorboard_logs
+__pycache__
+.DS_Store
+tmp*
+*.jar
+*.tgz
+*.pth
+!stanford-corenlp-3.4.1.jar
