@@ -47,7 +47,7 @@ Run `python train.py` using the following arguments:
 
 For example, to train our model with the parameters used in our experiments, use
 ```
-python train.py --exp_name dft --batch_size 20 --clip_path /path/to/clip_gird_features --clip_path /path/to/vinvl_region_features --annotation_folder /path/to/annotations
+python train.py --exp_name dft --batch_size 20 --clip_path /path/to/clip_gird_features --vinvl_path /path/to/vinvl_region_features --annotation_folder /path/to/annotations
 ```
 
 #### References
