@@ -22,7 +22,7 @@ To reproduce our result, please download the features files [COCO2014_RN50x4_GLO
 
 
 ## Evaluation
-To reproduce the results reported in our paper, download the pretrained model file [meshed_memory_transformer.pth](https://ailb-web.ing.unimore.it/publicfiles/drive/meshed-memory-transformer/meshed_memory_transformer.pth) and place it in the code folder.
+To reproduce the results reported in our paper, download the pretrained model file [dft.pth](https://pan.baidu.com/s/17ik-2OZGFaQ5-AzCCWkL9w) (Extraction code: ska0) and place it in the code folder.
 
 
 ## Training procedure
